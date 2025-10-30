@@ -26,7 +26,6 @@ categories:
   - video-conferencing
 description:
   it:
-    apiDocumentation: 'http://docs.open2.0.appdemoweb.org'
     documentation: 'https://www.open2.0.regione.lombardia.it'
     features:
       - content management system
