@@ -83,7 +83,7 @@ localisation:
     - it
     - en
   localisationReady: true
-logo: https://raw.githubusercontent.com/RegioneLombardia/Open20/master/backend/web/img/logo_open20.jpg
+logo: https://raw.githubusercontent.com/RegioneLombardia/Open20/master/backend/web/img/logo_open20.png
 maintenance:
   contacts:
     - name: Angelo Cardani
@@ -91,7 +91,7 @@ maintenance:
 name: OPEN 2.0
 platforms:
   - web
-releaseDate: '2019-11-03'
+releaseDate: '2024-10-01'
 softwareType: standalone/web
 url: 'https://github.com/RegioneLombardia/Open20'
 usedBy:
